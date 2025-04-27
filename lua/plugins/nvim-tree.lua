@@ -30,6 +30,7 @@ return {
             },
           },
         },
+        group_empty = true,
       },
       actions = {
         open_file = {
