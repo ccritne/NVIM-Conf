@@ -54,6 +54,6 @@ return {
     keymap.set("n", "<leader>ef", "<cmd>NvimTreeFindFileToggle<CR>") 
     keymap.set("n", "<leader>ec", "<cmd>NvimTreeCollapse<CR>") 
     keymap.set("n", "<leader>er", "<cmd>NvimTreeRefresh<CR>") 
-    keymap.set("n", "<leader>es", "<cmd>NvimTreeFocus<CR>") 
+    keymap.set("n", "<Tab>", "<cmd>NvimTreeFocus<CR>") 
   end
 }
