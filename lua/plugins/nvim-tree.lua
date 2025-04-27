@@ -9,7 +9,7 @@ return {
 
     nvimtree.setup({
       view = {
-        width = 30,
+        width = "30%",
       },
       renderer = {
         root_folder_label = function(root_cwd)
